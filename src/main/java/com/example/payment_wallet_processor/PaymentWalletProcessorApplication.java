@@ -10,7 +10,5 @@ public class PaymentWalletProcessorApplication {
 		SpringApplication.run(PaymentWalletProcessorApplication.class, args);
 	}
 
-	
-
 }
 
